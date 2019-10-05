@@ -144,3 +144,6 @@ At a haunted house, the inexperienced actor slummocked towards me.
 Eskimoan, adj.: “Of, relating to, or characteristic of the Eskimo peoples or their languages.”
 
 Eutheria, n.: “With singular agreement: an infraclass of mammals comprising those in which the females develop a placenta (as distinguished from marsupials and…”
+
+#Bazinga(Sheldon's way of cracking a joke)
+It seems that I am the greatest coder in the world...Bazinga!
