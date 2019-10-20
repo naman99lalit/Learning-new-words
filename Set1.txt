@@ -141,5 +141,19 @@ Synopsis of a particular movie can be obtained by clicking on poster of movie.
 # vicinity: (In Close Proximity or distance)
 Chandni Chowk is located in the vicinity of Red Fort
 
+#Curicullum Vitae: Description of the work done a person
+
+#barack, n.: “A type of apricot brandy made in Hungary; a drink of this.”
+
+
+#barb, n.4: “A barbiturate; a barbiturate tablet. Usually in plural.”
+
+Eskimoan, adj.: “Of, relating to, or characteristic of the Eskimo peoples or their languages.”
+
+Eutheria, n.: “With singular agreement: an infraclass of mammals comprising those in which the females develop a placenta (as distinguished from marsupials and…”
+
+#Bazinga(Sheldon's way of cracking a joke)
+It seems that I am the greatest coder in the world...Bazinga!
+
 # Virtuoso
 A virtuoso is an incredibly talented musician. You can also be a virtuoso in non-musical fields.
